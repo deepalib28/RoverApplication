@@ -1,0 +1,16 @@
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\RoverApplicationTest.dll
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\RoverApplicationTest.pdb
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\RoverApplication.exe
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\RoverApplication.pdb
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\RoverApplication.exe.config
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.csprojResolveAssemblyReference.cache
+D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.csproj.CoreCompileInputs.cache
+D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.dll
+D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.pdb

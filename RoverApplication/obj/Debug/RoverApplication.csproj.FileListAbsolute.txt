@@ -1,0 +1,7 @@
+D:\Projects\RoverApplication\RoverApplication\bin\Debug\RoverApplication.exe.config
+D:\Projects\RoverApplication\RoverApplication\bin\Debug\RoverApplication.exe
+D:\Projects\RoverApplication\RoverApplication\bin\Debug\RoverApplication.pdb
+D:\Projects\RoverApplication\RoverApplication\obj\Debug\RoverApplication.csprojResolveAssemblyReference.cache
+D:\Projects\RoverApplication\RoverApplication\obj\Debug\RoverApplication.csproj.CoreCompileInputs.cache
+D:\Projects\RoverApplication\RoverApplication\obj\Debug\RoverApplication.exe
+D:\Projects\RoverApplication\RoverApplication\obj\Debug\RoverApplication.pdb
