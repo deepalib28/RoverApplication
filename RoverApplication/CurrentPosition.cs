@@ -8,7 +8,7 @@ namespace RoverApplication
 {
     public class CurrentPosition
     {
-        public CurrentPosition(Points coordinates , Direction direction)
+        public CurrentPosition(Points coordinates, Direction direction)
         {
             Points = coordinates;
             Direction = direction;
@@ -34,4 +34,5 @@ namespace RoverApplication
         East,
         West
     }
+
 }

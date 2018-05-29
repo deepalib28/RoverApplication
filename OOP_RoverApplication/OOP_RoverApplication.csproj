@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C034F8C2-DEA1-46C3-B593-8E75F9FD3300}</ProjectGuid>
+    <ProjectGuid>{A025D137-32A8-4A15-89A3-F8192F5742A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RoverApplication</RootNamespace>
-    <AssemblyName>RoverApplication</AssemblyName>
+    <RootNamespace>OOP_RoverApplication</RootNamespace>
+    <AssemblyName>OOP_RoverApplication</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,10 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CurrentPosition.cs" />
+    <Compile Include="EastMovement.cs" />
+    <Compile Include="Movement.cs" />
+    <Compile Include="NorthMovement.cs" />
+    <Compile Include="Position.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rover.cs" />
+    <Compile Include="SouthMovement.cs" />
+    <Compile Include="WestMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

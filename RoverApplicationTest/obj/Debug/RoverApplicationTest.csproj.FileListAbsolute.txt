@@ -14,3 +14,6 @@ D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest
 D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.csproj.CoreCompileInputs.cache
 D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.dll
 D:\Projects\RoverApplication\RoverApplicationTest\obj\Debug\RoverApplicationTest.pdb
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\OOP_RoverApplication.exe
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\OOP_RoverApplication.pdb
+D:\Projects\RoverApplication\RoverApplicationTest\bin\Debug\OOP_RoverApplication.exe.config

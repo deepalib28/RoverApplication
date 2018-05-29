@@ -48,6 +48,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OOP_RoverApplication_Test.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,6 +56,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\OOP_RoverApplication\OOP_RoverApplication.csproj">
+      <Project>{a025d137-32a8-4a15-89a3-f8192f5742a4}</Project>
+      <Name>OOP_RoverApplication</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RoverApplication\RoverApplication.csproj">
       <Project>{c034f8c2-dea1-46c3-b593-8e75f9fd3300}</Project>
       <Name>RoverApplication</Name>
